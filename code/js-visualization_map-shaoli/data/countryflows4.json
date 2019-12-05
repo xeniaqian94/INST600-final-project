@@ -1,0 +1,231 @@
+{"type":"Topology","arcs":[],"objects":{"countryflows4":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[-95.712891,37.09024],"properties":{"country":"United States ","code2":"US","x":-95.712891,"y":37.09024,"net":4632,"abs":4632}}
+    ,{"type":"Point","coordinates":[133.775136,-25.274398],"properties":{"country":"Australia ","code2":"AU","x":133.775136,"y":-25.274398,"net":2857,"abs":2857}}
+    ,{"type":"Point","coordinates":[-3.435973,55.378051],"properties":{"country":"United Kingdom ","code2":"GB","x":-3.435973,"y":55.378051,"net":1308,"abs":1308}}
+    ,{"type":"Point","coordinates":[-8.224454,39.399872],"properties":{"country":"Portugal ","code2":"PT","x":-8.224454,"y":39.399872,"net":1042,"abs":1042}}
+    ,{"type":"Point","coordinates":[45.079162,23.885942],"properties":{"country":"Saudi Arabia ","code2":"SA","x":45.079162,"y":23.885942,"net":1011,"abs":1011}}
+    ,{"type":"Point","coordinates":[9.501785,56.26392],"properties":{"country":"Denmark ","code2":"DK","x":9.501785,"y":56.26392,"net":1004,"abs":1004}}
+    ,{"type":"Point","coordinates":[18.643501,60.128161],"properties":{"country":"Sweden ","code2":"SE","x":18.643501,"y":60.128161,"net":942,"abs":942}}
+    ,{"type":"Point","coordinates":[8.227512,46.818188],"properties":{"country":"Switzerland ","code2":"CH","x":8.227512,"y":46.818188,"net":881,"abs":881}}
+    ,{"type":"Point","coordinates":[22.937506,-30.559482],"properties":{"country":"South Africa ","code2":"ZA","x":22.937506,"y":-30.559482,"net":705,"abs":705}}
+    ,{"type":"Point","coordinates":[8.468946,60.472024],"properties":{"country":"Norway ","code2":"NO","x":8.468946,"y":60.472024,"net":514,"abs":514}}
+    ,{"type":"Point","coordinates":[53.847818,23.424076],"properties":{"country":"United Arab Emirates ","code2":"AE","x":53.847818,"y":23.424076,"net":513,"abs":513}}
+    ,{"type":"Point","coordinates":[103.819836,1.352083],"properties":{"country":"Singapore ","code2":"SG","x":103.819836,"y":1.352083,"net":503,"abs":503}}
+    ,{"type":"Point","coordinates":[51.183884,25.354826],"properties":{"country":"Qatar ","code2":"QA","x":51.183884,"y":25.354826,"net":496,"abs":496}}
+    ,{"type":"Point","coordinates":[127.766922,35.907757],"properties":{"country":"South Korea ","code2":"KR","x":127.766922,"y":35.907757,"net":413,"abs":413}}
+    ,{"type":"Point","coordinates":[174.885971,-40.900557],"properties":{"country":"New Zealand ","code2":"NZ","x":174.885971,"y":-40.900557,"net":401,"abs":401}}
+    ,{"type":"Point","coordinates":[-78.183406,-1.831239],"properties":{"country":"Ecuador ","code2":"EC","x":-78.183406,"y":-1.831239,"net":387,"abs":387}}
+    ,{"type":"Point","coordinates":[35.243322,38.963745],"properties":{"country":"Turkey ","code2":"TR","x":35.243322,"y":38.963745,"net":369,"abs":369}}
+    ,{"type":"Point","coordinates":[15.472962,49.817492],"properties":{"country":"Czech Republic ","code2":"CZ","x":15.472962,"y":49.817492,"net":339,"abs":339}}
+    ,{"type":"Point","coordinates":[-102.552784,23.634501],"properties":{"country":"Mexico ","code2":"MX","x":-102.552784,"y":23.634501,"net":307,"abs":307}}
+    ,{"type":"Point","coordinates":[114.109497,22.396428],"properties":{"country":"Hong Kong ","code2":"HK","x":114.109497,"y":22.396428,"net":294,"abs":294}}
+    ,{"type":"Point","coordinates":[-71.542969,-35.675147],"properties":{"country":"Chile ","code2":"CL","x":-71.542969,"y":-35.675147,"net":284,"abs":284}}
+    ,{"type":"Point","coordinates":[25.748151,61.92411],"properties":{"country":"Finland ","code2":"FI","x":25.748151,"y":61.92411,"net":284,"abs":284}}
+    ,{"type":"Point","coordinates":[101.975766,4.210484],"properties":{"country":"Malaysia ","code2":"MY","x":101.975766,"y":4.210484,"net":273,"abs":273}}
+    ,{"type":"Point","coordinates":[-8.24389,53.41291],"properties":{"country":"Ireland ","code2":"IE","x":-8.24389,"y":53.41291,"net":264,"abs":264}}
+    ,{"type":"Point","coordinates":[-51.92528,-14.235004],"properties":{"country":"Brazil ","code2":"BR","x":-51.92528,"y":-14.235004,"net":231,"abs":231}}
+    ,{"type":"Point","coordinates":[14.550072,47.516231],"properties":{"country":"Austria ","code2":"AT","x":14.550072,"y":47.516231,"net":194,"abs":194}}
+    ,{"type":"Point","coordinates":[120.960515,23.69781],"properties":{"country":"Taiwan ","code2":"TW","x":120.960515,"y":23.69781,"net":191,"abs":191}}
+    ,{"type":"Point","coordinates":[4.469936,50.503887],"properties":{"country":"Belgium ","code2":"BE","x":4.469936,"y":50.503887,"net":155,"abs":155}}
+    ,{"type":"Point","coordinates":[100.992541,15.870032],"properties":{"country":"Thailand ","code2":"TH","x":100.992541,"y":15.870032,"net":136,"abs":136}}
+    ,{"type":"Point","coordinates":[55.923255,21.512583],"properties":{"country":"Oman ","code2":"OM","x":55.923255,"y":21.512583,"net":129,"abs":129}}
+    ,{"type":"Point","coordinates":[6.129583,49.815273],"properties":{"country":"Luxembourg ","code2":"LU","x":6.129583,"y":49.815273,"net":124,"abs":124}}
+    ,{"type":"Point","coordinates":[33.429859,35.126413],"properties":{"country":"Cyprus ","code2":"CY","x":33.429859,"y":35.126413,"net":107,"abs":107}}
+    ,{"type":"Point","coordinates":[34.851612,31.046051],"properties":{"country":"Israel ","code2":"IL","x":34.851612,"y":31.046051,"net":96,"abs":96}}
+    ,{"type":"Point","coordinates":[47.481766,29.31166],"properties":{"country":"Kuwait ","code2":"KW","x":47.481766,"y":29.31166,"net":87,"abs":87}}
+    ,{"type":"Point","coordinates":[37.906193,-0.023559],"properties":{"country":"Kenya ","code2":"KE","x":37.906193,"y":-0.023559,"net":85,"abs":85}}
+    ,{"type":"Point","coordinates":[43.679291,33.223191],"properties":{"country":"Iraq ","code2":"IQ","x":43.679291,"y":33.223191,"net":84,"abs":84}}
+    ,{"type":"Point","coordinates":[66.923684,48.019573],"properties":{"country":"Kazakhstan ","code2":"KZ","x":66.923684,"y":48.019573,"net":71,"abs":71}}
+    ,{"type":"Point","coordinates":[113.543873,22.198745],"properties":{"country":"Macau ","code2":"MO","x":113.543873,"y":22.198745,"net":65,"abs":65}}
+    ,{"type":"Point","coordinates":[24.684866,-22.328474],"properties":{"country":"Botswana ","code2":"BW","x":24.684866,"y":-22.328474,"net":52,"abs":52}}
+    ,{"type":"Point","coordinates":[36.238414,30.585164],"properties":{"country":"Jordan ","code2":"JO","x":36.238414,"y":30.585164,"net":51,"abs":51}}
+    ,{"type":"Point","coordinates":[-19.020835,64.963051],"properties":{"country":"Iceland ","code2":"IS","x":-19.020835,"y":64.963051,"net":46,"abs":46}}
+    ,{"type":"Point","coordinates":[114.727669,4.535277],"properties":{"country":"Brunei ","code2":"BN","x":114.727669,"y":4.535277,"net":42,"abs":42}}
+    ,{"type":"Point","coordinates":[27.849332,-13.133897],"properties":{"country":"Zambia ","code2":"ZM","x":27.849332,"y":-13.133897,"net":38,"abs":38}}
+    ,{"type":"Point","coordinates":[25.013607,58.595272],"properties":{"country":"Estonia ","code2":"EE","x":25.013607,"y":58.595272,"net":37,"abs":37}}
+    ,{"type":"Point","coordinates":[18.49041,-22.95764],"properties":{"country":"Namibia ","code2":"NA","x":18.49041,"y":-22.95764,"net":35,"abs":35}}
+    ,{"type":"Point","coordinates":[29.873888,-1.940278],"properties":{"country":"Rwanda ","code2":"RW","x":29.873888,"y":-1.940278,"net":29,"abs":29}}
+    ,{"type":"Point","coordinates":[46.199616,5.152149],"properties":{"country":"Somalia ","code2":"SO","x":46.199616,"y":5.152149,"net":27,"abs":27}}
+    ,{"type":"Point","coordinates":[14.375416,35.937496],"properties":{"country":"Malta ","code2":"MT","x":14.375416,"y":35.937496,"net":22,"abs":22}}
+    ,{"type":"Point","coordinates":[-55.765835,-32.522779],"properties":{"country":"Uruguay ","code2":"UY","x":-55.765835,"y":-32.522779,"net":21,"abs":21}}
+    ,{"type":"Point","coordinates":[179.414413,-16.578193],"properties":{"country":"Fiji ","code2":"FJ","x":179.414413,"y":-16.578193,"net":20,"abs":20}}
+    ,{"type":"Point","coordinates":[50.637772,25.930414],"properties":{"country":"Bahrain ","code2":"BH","x":50.637772,"y":25.930414,"net":20,"abs":20}}
+    ,{"type":"Point","coordinates":[34.301525,-13.254308],"properties":{"country":"Malawi ","code2":"MW","x":34.301525,"y":-13.254308,"net":19,"abs":19}}
+    ,{"type":"Point","coordinates":[-80.782127,8.537981],"properties":{"country":"Panama ","code2":"PA","x":-80.782127,"y":8.537981,"net":18,"abs":18}}
+    ,{"type":"Point","coordinates":[138.252924,36.204824],"properties":{"country":"Japan ","code2":"JP","x":138.252924,"y":36.204824,"net":15,"abs":15}}
+    ,{"type":"Point","coordinates":[-61.222503,10.691803],"properties":{"country":"Trinidad and Tobago ","code2":"TT","x":-61.222503,"y":10.691803,"net":13,"abs":13}}
+    ,{"type":"Point","coordinates":[104.990963,12.565679],"properties":{"country":"Cambodia ","code2":"KH","x":104.990963,"y":12.565679,"net":13,"abs":13}}
+    ,{"type":"Point","coordinates":[-24.013197,16.002082],"properties":{"country":"Cape Verde ","code2":"CV","x":-24.013197,"y":16.002082,"net":12,"abs":12}}
+    ,{"type":"Point","coordinates":[34.888822,-6.369028],"properties":{"country":"Tanzania ","code2":"TZ","x":34.888822,"y":-6.369028,"net":11,"abs":11}}
+    ,{"type":"Point","coordinates":[19.37439,42.708678],"properties":{"country":"Montenegro ","code2":"ME","x":19.37439,"y":42.708678,"net":10,"abs":10}}
+    ,{"type":"Point","coordinates":[-11.779889,8.460555],"properties":{"country":"Sierra Leone ","code2":"SL","x":-11.779889,"y":8.460555,"net":9,"abs":9}}
+    ,{"type":"Point","coordinates":[-58.93018,4.860416],"properties":{"country":"Guyana ","code2":"GY","x":-58.93018,"y":4.860416,"net":8,"abs":8}}
+    ,{"type":"Point","coordinates":[-9.429499,6.428055],"properties":{"country":"Liberia ","code2":"LR","x":-9.429499,"y":6.428055,"net":8,"abs":8}}
+    ,{"type":"Point","coordinates":[165.618042,-20.904305],"properties":{"country":"New Caledonia ","code2":"NC","x":165.618042,"y":-20.904305,"net":7,"abs":7}}
+    ,{"type":"Point","coordinates":[55.536384,-21.115141],"properties":{"country":"Réunion ","code2":"RE","x":55.536384,"y":-21.115141,"net":7,"abs":7}}
+    ,{"type":"Point","coordinates":[7.412841,43.750298],"properties":{"country":"Monaco ","code2":"MC","x":7.412841,"y":43.750298,"net":7,"abs":7}}
+    ,{"type":"Point","coordinates":[-88.49765,17.189877],"properties":{"country":"Belize ","code2":"BZ","x":-88.49765,"y":17.189877,"net":6,"abs":6}}
+    ,{"type":"Point","coordinates":[-61.287228,12.984305],"properties":{"country":"Saint Vincent and the Grenadines ","code2":"VC","x":-61.287228,"y":12.984305,"net":6,"abs":6}}
+    ,{"type":"Point","coordinates":[-15.180413,11.803749],"properties":{"country":"Guinea-Bissau ","code2":"GW","x":-15.180413,"y":11.803749,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[73.22068,3.202778],"properties":{"country":"Maldives ","code2":"MV","x":73.22068,"y":3.202778,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[15.827659,-0.228021],"properties":{"country":"Congo [Republic] ","code2":"CG","x":15.827659,"y":-0.228021,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[-149.406843,-17.679742],"properties":{"country":"French Polynesia ","code2":"PF","x":-149.406843,"y":-17.679742,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[-42.604303,71.706936],"properties":{"country":"Greenland ","code2":"GL","x":-42.604303,"y":71.706936,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[143.95555,-6.314993],"properties":{"country":"Papua New Guinea ","code2":"PG","x":143.95555,"y":-6.314993,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[8.081666,17.607789],"properties":{"country":"Niger ","code2":"NE","x":8.081666,"y":17.607789,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[-58.443832,-23.442503],"properties":{"country":"Paraguay ","code2":"PY","x":-58.443832,"y":-23.442503,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[90.433601,27.514162],"properties":{"country":"Bhutan ","code2":"BT","x":90.433601,"y":27.514162,"net":5,"abs":5}}
+    ,{"type":"Point","coordinates":[-1.561593,12.238333],"properties":{"country":"Burkina Faso ","code2":"BF","x":-1.561593,"y":12.238333,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[160.156194,-9.64571],"properties":{"country":"Solomon Islands ","code2":"SB","x":160.156194,"y":-9.64571,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[-6.911806,61.892635],"properties":{"country":"Faroe Islands ","code2":"FO","x":-6.911806,"y":61.892635,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[102.495496,19.85627],"properties":{"country":"Laos ","code2":"LA","x":102.495496,"y":19.85627,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[-53.125782,3.933889],"properties":{"country":"French Guiana ","code2":"GF","x":-53.125782,"y":3.933889,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[-60.978893,13.909444],"properties":{"country":"Saint Lucia ","code2":"LC","x":-60.978893,"y":13.909444,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[166.959158,-15.376706],"properties":{"country":"Vanuatu ","code2":"VU","x":166.959158,"y":-15.376706,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[-61.024174,14.641528],"properties":{"country":"Martinique ","code2":"MQ","x":-61.024174,"y":14.641528,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[-3.996166,17.570692],"properties":{"country":"Mali ","code2":"ML","x":-3.996166,"y":17.570692,"net":4,"abs":4}}
+    ,{"type":"Point","coordinates":[-63.068615,18.220554],"properties":{"country":"Anguilla ","code2":"AI","x":-63.068615,"y":18.220554,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[-2.13125,49.214439],"properties":{"country":"Jersey ","code2":"JE","x":-2.13125,"y":49.214439,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[-175.198242,-21.178986],"properties":{"country":"Tonga ","code2":"TO","x":-175.198242,"y":-21.178986,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[1.601554,42.546245],"properties":{"country":"Andorra ","code2":"AD","x":1.601554,"y":42.546245,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[67.709953,33.93911],"properties":{"country":"Afghanistan ","code2":"AF","x":67.709953,"y":33.93911,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[11.609444,-0.803689],"properties":{"country":"Gabon ","code2":"GA","x":11.609444,"y":-0.803689,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[-56.027783,3.919305],"properties":{"country":"Suriname ","code2":"SR","x":-56.027783,"y":3.919305,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[-5.345374,36.137741],"properties":{"country":"Gibraltar ","code2":"GI","x":-5.345374,"y":36.137741,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[-172.104629,-13.759029],"properties":{"country":"Samoa ","code2":"WS","x":-172.104629,"y":-13.759029,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[-62.187366,16.742498],"properties":{"country":"Montserrat ","code2":"MS","x":-62.187366,"y":16.742498,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[-77.39628,25.03428],"properties":{"country":"Bahamas ","code2":"BS","x":-77.39628,"y":25.03428,"net":3,"abs":3}}
+    ,{"type":"Point","coordinates":[17.873887,-11.202692],"properties":{"country":"Angola ","code2":"AO","x":17.873887,"y":-11.202692,"net":2,"abs":2}}
+    ,{"type":"Point","coordinates":[18.732207,15.454166],"properties":{"country":"Chad ","code2":"TD","x":18.732207,"y":15.454166,"net":2,"abs":2}}
+    ,{"type":"Point","coordinates":[43.872219,-11.875001],"properties":{"country":"Comoros ","code2":"KM","x":43.872219,"y":-11.875001,"net":2,"abs":2}}
+    ,{"type":"Point","coordinates":[29.918886,-3.373056],"properties":{"country":"Burundi ","code2":"BI","x":29.918886,"y":-3.373056,"net":2,"abs":2}}
+    ,{"type":"Point","coordinates":[71.876519,-6.343194],"properties":{"country":"British Indian Ocean Territory ","code2":"IO","x":71.876519,"y":-6.343194,"net":2,"abs":2}}
+    ,{"type":"Point","coordinates":[-10.940835,21.00789],"properties":{"country":"Mauritania ","code2":"MR","x":-10.940835,"y":21.00789,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[145.38469,17.33083],"properties":{"country":"Northern Mariana Islands ","code2":"MP","x":145.38469,"y":17.33083,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[125.727539,-8.874217],"properties":{"country":"Timor-Leste ","code2":"TL","x":125.727539,"y":-8.874217,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[-9.696645,9.945587],"properties":{"country":"Guinea ","code2":"GN","x":-9.696645,"y":9.945587,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[0,0],"properties":{"country":"U.S. Minor Outlying Islands ","code2":"UM","x":0,"y":0,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[144.793731,13.444304],"properties":{"country":"Guam ","code2":"GU","x":144.793731,"y":13.444304,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[-171.855881,-8.967363],"properties":{"country":"Tokelau ","code2":"TK","x":-171.855881,"y":-8.967363,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[42.590275,11.825138],"properties":{"country":"Djibouti ","code2":"DJ","x":42.590275,"y":11.825138,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[-168.734039,-3.370417],"properties":{"country":"Kiribati ","code2":"KI","x":-168.734039,"y":-3.370417,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[-170.132217,-14.270972],"properties":{"country":"American Samoa ","code2":"AS","x":-170.132217,"y":-14.270972,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[-177.156097,-13.768752],"properties":{"country":"Wallis and Futuna ","code2":"WF","x":-177.156097,"y":-13.768752,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[45.166244,-12.8275],"properties":{"country":"Mayotte ","code2":"YT","x":45.166244,"y":-12.8275,"net":1,"abs":1}}
+    ,{"type":"Point","coordinates":[-2.585278,49.465691],"properties":{"country":"Guernsey ","code2":"GG","x":-2.585278,"y":49.465691,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[-4.548056,54.236107],"properties":{"country":"Isle of Man ","code2":"IM","x":-4.548056,"y":54.236107,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[12.453389,41.902916],"properties":{"country":"Vatican City ","code2":"VA","x":12.453389,"y":41.902916,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[150.550812,7.425554],"properties":{"country":"Micronesia ","code2":"FM","x":150.550812,"y":7.425554,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[166.931503,-0.522778],"properties":{"country":"Nauru ","code2":"NR","x":166.931503,"y":-0.522778,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[-71.797928,21.694025],"properties":{"country":"Turks and Caicos Islands ","code2":"TC","x":-71.797928,"y":21.694025,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[171.184478,7.131474],"properties":{"country":"Marshall Islands ","code2":"MH","x":171.184478,"y":7.131474,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[-0.071389,-75.250973],"properties":{"country":"Antarctica ","code2":"AQ","x":-0.071389,"y":-75.250973,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[-85.207229,12.865416],"properties":{"country":"Nicaragua ","code2":"NI","x":-85.207229,"y":12.865416,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[71.276093,38.861034],"properties":{"country":"Tajikistan ","code2":"TJ","x":71.276093,"y":38.861034,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[-64.639968,18.420695],"properties":{"country":"British Virgin Islands ","code2":"VG","x":-64.639968,"y":18.420695,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[20.902977,42.602636],"properties":{"country":"Kosovo ","code2":"XK","x":20.902977,"y":42.602636,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[12.457777,43.94236],"properties":{"country":"San Marino ","code2":"SM","x":12.457777,"y":43.94236,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[20.939444,6.611111],"properties":{"country":"Central African Republic ","code2":"CF","x":20.939444,"y":6.611111,"net":0,"abs":0}}
+    ,{"type":"Point","coordinates":[59.556278,38.969719],"properties":{"country":"Turkmenistan ","code2":"TM","x":59.556278,"y":38.969719,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[23.670272,77.553604],"properties":{"country":"Svalbard and Jan Mayen ","code2":"SJ","x":23.670272,"y":77.553604,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[3.413194,-54.423199],"properties":{"country":"Bouvet Island ","code2":"BV","x":3.413194,"y":-54.423199,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[134.58252,7.51498],"properties":{"country":"Palau ","code2":"PW","x":134.58252,"y":7.51498,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[-5.54708,7.539989],"properties":{"country":"Côte d'Ivoire ","code2":"CI","x":-5.54708,"y":7.539989,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[9.555373,47.166],"properties":{"country":"Liechtenstein ","code2":"LI","x":9.555373,"y":47.166,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[105.690449,-10.447525],"properties":{"country":"Christmas Island ","code2":"CX","x":105.690449,"y":-10.447525,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[46.869107,-18.766947],"properties":{"country":"Madagascar ","code2":"MG","x":46.869107,"y":-18.766947,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[-59.523613,-51.796253],"properties":{"country":"Falkland Islands [Islas Malvinas] ","code2":"FK","x":-59.523613,"y":-51.796253,"net":-1,"abs":1}}
+    ,{"type":"Point","coordinates":[127.510093,40.339852],"properties":{"country":"North Korea ","code2":"KP","x":127.510093,"y":40.339852,"net":-2,"abs":2}}
+    ,{"type":"Point","coordinates":[74.766098,41.20438],"properties":{"country":"Kyrgyzstan ","code2":"KG","x":74.766098,"y":41.20438,"net":-2,"abs":2}}
+    ,{"type":"Point","coordinates":[-64.896335,18.335765],"properties":{"country":"U.S. Virgin Islands ","code2":"VI","x":-64.896335,"y":18.335765,"net":-2,"abs":2}}
+    ,{"type":"Point","coordinates":[-69.968338,12.52111],"properties":{"country":"Aruba ","code2":"AW","x":-69.968338,"y":12.52111,"net":-3,"abs":3}}
+    ,{"type":"Point","coordinates":[-64.75737,32.321384],"properties":{"country":"Bermuda ","code2":"BM","x":-64.75737,"y":32.321384,"net":-3,"abs":3}}
+    ,{"type":"Point","coordinates":[10.267895,1.650801],"properties":{"country":"Equatorial Guinea ","code2":"GQ","x":10.267895,"y":1.650801,"net":-3,"abs":3}}
+    ,{"type":"Point","coordinates":[-61.370976,15.414999],"properties":{"country":"Dominica ","code2":"DM","x":-61.370976,"y":15.414999,"net":-4,"abs":4}}
+    ,{"type":"Point","coordinates":[-62.067641,16.995971],"properties":{"country":"Guadeloupe ","code2":"GP","x":-62.067641,"y":16.995971,"net":-4,"abs":4}}
+    ,{"type":"Point","coordinates":[6.613081,0.18636],"properties":{"country":"São Tomé and Príncipe ","code2":"ST","x":6.613081,"y":0.18636,"net":-4,"abs":4}}
+    ,{"type":"Point","coordinates":[31.465866,-26.522503],"properties":{"country":"Swaziland ","code2":"SZ","x":31.465866,"y":-26.522503,"net":-4,"abs":4}}
+    ,{"type":"Point","coordinates":[-15.310139,13.443182],"properties":{"country":"Gambia ","code2":"GM","x":-15.310139,"y":13.443182,"net":-4,"abs":4}}
+    ,{"type":"Point","coordinates":[0.824782,8.619543],"properties":{"country":"Togo ","code2":"TG","x":0.824782,"y":8.619543,"net":-5,"abs":5}}
+    ,{"type":"Point","coordinates":[-80.566956,19.513469],"properties":{"country":"Cayman Islands ","code2":"KY","x":-80.566956,"y":19.513469,"net":-5,"abs":5}}
+    ,{"type":"Point","coordinates":[-59.543198,13.193887],"properties":{"country":"Barbados ","code2":"BB","x":-59.543198,"y":13.193887,"net":-5,"abs":5}}
+    ,{"type":"Point","coordinates":[103.846656,46.862496],"properties":{"country":"Mongolia ","code2":"MN","x":103.846656,"y":46.862496,"net":-6,"abs":6}}
+    ,{"type":"Point","coordinates":[-72.285215,18.971187],"properties":{"country":"Haiti ","code2":"HT","x":-72.285215,"y":18.971187,"net":-6,"abs":6}}
+    ,{"type":"Point","coordinates":[23.881275,55.169438],"properties":{"country":"Lithuania ","code2":"LT","x":23.881275,"y":55.169438,"net":-6,"abs":6}}
+    ,{"type":"Point","coordinates":[-62.782998,17.357822],"properties":{"country":"Saint Kitts and Nevis ","code2":"KN","x":-62.782998,"y":17.357822,"net":-7,"abs":7}}
+    ,{"type":"Point","coordinates":[-70.162651,18.735693],"properties":{"country":"Dominican Republic ","code2":"DO","x":-70.162651,"y":18.735693,"net":-7,"abs":7}}
+    ,{"type":"Point","coordinates":[55.491977,-4.679574],"properties":{"country":"Seychelles ","code2":"SC","x":55.491977,"y":-4.679574,"net":-8,"abs":8}}
+    ,{"type":"Point","coordinates":[28.233608,-29.609988],"properties":{"country":"Lesotho ","code2":"LS","x":28.233608,"y":-29.609988,"net":-9,"abs":9}}
+    ,{"type":"Point","coordinates":[39.782334,15.179384],"properties":{"country":"Eritrea ","code2":"ER","x":39.782334,"y":15.179384,"net":-9,"abs":9}}
+    ,{"type":"Point","coordinates":[2.315834,9.30769],"properties":{"country":"Benin ","code2":"BJ","x":2.315834,"y":9.30769,"net":-9,"abs":9}}
+    ,{"type":"Point","coordinates":[-63.616672,-38.416097],"properties":{"country":"Argentina ","code2":"AR","x":-63.616672,"y":-38.416097,"net":-9,"abs":9}}
+    ,{"type":"Point","coordinates":[-61.796428,17.060816],"properties":{"country":"Antigua and Barbuda ","code2":"AG","x":-61.796428,"y":17.060816,"net":-9,"abs":9}}
+    ,{"type":"Point","coordinates":[-14.452362,14.497401],"properties":{"country":"Senegal ","code2":"SN","x":-14.452362,"y":14.497401,"net":-10,"abs":10}}
+    ,{"type":"Point","coordinates":[21.745275,41.608635],"properties":{"country":"Macedonia [FYROM] ","code2":"MK","x":21.745275,"y":41.608635,"net":-10,"abs":10}}
+    ,{"type":"Point","coordinates":[57.552152,-20.348404],"properties":{"country":"Mauritius ","code2":"MU","x":57.552152,"y":-20.348404,"net":-11,"abs":11}}
+    ,{"type":"Point","coordinates":[28.369885,47.411631],"properties":{"country":"Moldova ","code2":"MD","x":28.369885,"y":47.411631,"net":-12,"abs":12}}
+    ,{"type":"Point","coordinates":[-88.89653,13.794185],"properties":{"country":"El Salvador ","code2":"SV","x":-88.89653,"y":13.794185,"net":-12,"abs":12}}
+    ,{"type":"Point","coordinates":[17.679076,43.915886],"properties":{"country":"Bosnia and Herzegovina ","code2":"BA","x":17.679076,"y":43.915886,"net":-13,"abs":13}}
+    ,{"type":"Point","coordinates":[-77.297508,18.109581],"properties":{"country":"Jamaica ","code2":"JM","x":-77.297508,"y":18.109581,"net":-13,"abs":13}}
+    ,{"type":"Point","coordinates":[24.603189,56.879635],"properties":{"country":"Latvia ","code2":"LV","x":24.603189,"y":56.879635,"net":-14,"abs":14}}
+    ,{"type":"Point","coordinates":[-90.230759,15.783471],"properties":{"country":"Guatemala ","code2":"GT","x":-90.230759,"y":15.783471,"net":-14,"abs":14}}
+    ,{"type":"Point","coordinates":[20.168331,41.153332],"properties":{"country":"Albania ","code2":"AL","x":20.168331,"y":41.153332,"net":-15,"abs":15}}
+    ,{"type":"Point","coordinates":[43.356892,42.315407],"properties":{"country":"Georgia ","code2":"GE","x":43.356892,"y":42.315407,"net":-16,"abs":16}}
+    ,{"type":"Point","coordinates":[21.758664,-4.038333],"properties":{"country":"Congo [DRC] ","code2":"CD","x":21.758664,"y":-4.038333,"net":-18,"abs":18}}
+    ,{"type":"Point","coordinates":[64.585262,41.377491],"properties":{"country":"Uzbekistan ","code2":"UZ","x":64.585262,"y":41.377491,"net":-18,"abs":18}}
+    ,{"type":"Point","coordinates":[47.576927,40.143105],"properties":{"country":"Azerbaijan ","code2":"AZ","x":47.576927,"y":40.143105,"net":-19,"abs":19}}
+    ,{"type":"Point","coordinates":[25.48583,42.733883],"properties":{"country":"Bulgaria ","code2":"BG","x":25.48583,"y":42.733883,"net":-20,"abs":20}}
+    ,{"type":"Point","coordinates":[35.529562,-18.665695],"properties":{"country":"Mozambique ","code2":"MZ","x":35.529562,"y":-18.665695,"net":-20,"abs":20}}
+    ,{"type":"Point","coordinates":[32.290275,1.373333],"properties":{"country":"Uganda ","code2":"UG","x":32.290275,"y":1.373333,"net":-21,"abs":21}}
+    ,{"type":"Point","coordinates":[48.516388,15.552727],"properties":{"country":"Yemen ","code2":"YE","x":48.516388,"y":15.552727,"net":-22,"abs":22}}
+    ,{"type":"Point","coordinates":[19.145136,51.919438],"properties":{"country":"Poland ","code2":"PL","x":19.145136,"y":51.919438,"net":-24,"abs":24}}
+    ,{"type":"Point","coordinates":[-61.604171,12.262776],"properties":{"country":"Grenada ","code2":"GD","x":-61.604171,"y":12.262776,"net":-24,"abs":24}}
+    ,{"type":"Point","coordinates":[113.921327,-0.789275],"properties":{"country":"Indonesia ","code2":"ID","x":113.921327,"y":-0.789275,"net":-25,"abs":25}}
+    ,{"type":"Point","coordinates":[40.489673,9.145],"properties":{"country":"Ethiopia ","code2":"ET","x":40.489673,"y":9.145,"net":-27,"abs":27}}
+    ,{"type":"Point","coordinates":[35.233154,31.952162],"properties":{"country":"Palestinian Territories ","code2":"PS","x":35.233154,"y":31.952162,"net":-29,"abs":29}}
+    ,{"type":"Point","coordinates":[-75.015152,-9.189967],"properties":{"country":"Peru ","code2":"PE","x":-75.015152,"y":-9.189967,"net":-29,"abs":29}}
+    ,{"type":"Point","coordinates":[95.956223,21.913965],"properties":{"country":"Myanmar [Burma] ","code2":"MM","x":95.956223,"y":21.913965,"net":-29,"abs":29}}
+    ,{"type":"Point","coordinates":[-86.241905,15.199999],"properties":{"country":"Honduras ","code2":"HN","x":-86.241905,"y":15.199999,"net":-34,"abs":34}}
+    ,{"type":"Point","coordinates":[-7.09262,31.791702],"properties":{"country":"Morocco ","code2":"MA","x":-7.09262,"y":31.791702,"net":-35,"abs":35}}
+    ,{"type":"Point","coordinates":[17.228331,26.3351],"properties":{"country":"Libya ","code2":"LY","x":17.228331,"y":26.3351,"net":-37,"abs":37}}
+    ,{"type":"Point","coordinates":[-63.588653,-16.290154],"properties":{"country":"Bolivia ","code2":"BO","x":-63.588653,"y":-16.290154,"net":-39,"abs":39}}
+    ,{"type":"Point","coordinates":[15.2,45.1],"properties":{"country":"Croatia ","code2":"HR","x":15.2,"y":45.1,"net":-39,"abs":39}}
+    ,{"type":"Point","coordinates":[45.038189,40.069099],"properties":{"country":"Armenia ","code2":"AM","x":45.038189,"y":40.069099,"net":-40,"abs":40}}
+    ,{"type":"Point","coordinates":[12.354722,7.369722],"properties":{"country":"Cameroon ","code2":"CM","x":12.354722,"y":7.369722,"net":-43,"abs":43}}
+    ,{"type":"Point","coordinates":[-83.753428,9.748917],"properties":{"country":"Costa Rica ","code2":"CR","x":-83.753428,"y":9.748917,"net":-47,"abs":47}}
+    ,{"type":"Point","coordinates":[27.953389,53.709807],"properties":{"country":"Belarus ","code2":"BY","x":27.953389,"y":53.709807,"net":-48,"abs":48}}
+    ,{"type":"Point","coordinates":[19.699024,48.669026],"properties":{"country":"Slovakia ","code2":"SK","x":19.699024,"y":48.669026,"net":-49,"abs":49}}
+    ,{"type":"Point","coordinates":[1.659626,28.033886],"properties":{"country":"Algeria ","code2":"DZ","x":1.659626,"y":28.033886,"net":-49,"abs":49}}
+    ,{"type":"Point","coordinates":[14.995463,46.151241],"properties":{"country":"Slovenia ","code2":"SI","x":14.995463,"y":46.151241,"net":-70,"abs":70}}
+    ,{"type":"Point","coordinates":[-106.346771,56.130366],"properties":{"country":"Canada ","code2":"CA","x":-106.346771,"y":56.130366,"net":-76,"abs":76}}
+    ,{"type":"Point","coordinates":[9.537499,33.886917],"properties":{"country":"Tunisia ","code2":"TN","x":9.537499,"y":33.886917,"net":-86,"abs":86}}
+    ,{"type":"Point","coordinates":[108.277199,14.058324],"properties":{"country":"Vietnam ","code2":"VN","x":108.277199,"y":14.058324,"net":-91,"abs":91}}
+    ,{"type":"Point","coordinates":[-66.590149,18.220833],"properties":{"country":"Puerto Rico ","code2":"PR","x":-66.590149,"y":18.220833,"net":-97,"abs":97}}
+    ,{"type":"Point","coordinates":[19.503304,47.162494],"properties":{"country":"Hungary ","code2":"HU","x":19.503304,"y":47.162494,"net":-112,"abs":112}}
+    ,{"type":"Point","coordinates":[35.862285,33.854721],"properties":{"country":"Lebanon ","code2":"LB","x":35.862285,"y":33.854721,"net":-112,"abs":112}}
+    ,{"type":"Point","coordinates":[84.124008,28.394857],"properties":{"country":"Nepal ","code2":"NP","x":84.124008,"y":28.394857,"net":-119,"abs":119}}
+    ,{"type":"Point","coordinates":[29.154857,-19.015438],"properties":{"country":"Zimbabwe ","code2":"ZW","x":29.154857,"y":-19.015438,"net":-122,"abs":122}}
+    ,{"type":"Point","coordinates":[24.96676,45.943161],"properties":{"country":"Romania ","code2":"RO","x":24.96676,"y":45.943161,"net":-122,"abs":122}}
+    ,{"type":"Point","coordinates":[30.217636,12.862807],"properties":{"country":"Sudan ","code2":"SD","x":30.217636,"y":12.862807,"net":-133,"abs":133}}
+    ,{"type":"Point","coordinates":[-1.023194,7.946527],"properties":{"country":"Ghana ","code2":"GH","x":-1.023194,"y":7.946527,"net":-138,"abs":138}}
+    ,{"type":"Point","coordinates":[21.005859,44.016521],"properties":{"country":"Serbia ","code2":"RS","x":21.005859,"y":44.016521,"net":-156,"abs":156}}
+    ,{"type":"Point","coordinates":[10.451526,51.165691],"properties":{"country":"Germany ","code2":"DE","x":10.451526,"y":51.165691,"net":-174,"abs":174}}
+    ,{"type":"Point","coordinates":[80.771797,7.873054],"properties":{"country":"Sri Lanka ","code2":"LK","x":80.771797,"y":7.873054,"net":-203,"abs":203}}
+    ,{"type":"Point","coordinates":[38.996815,34.802075],"properties":{"country":"Syria ","code2":"SY","x":38.996815,"y":34.802075,"net":-214,"abs":214}}
+    ,{"type":"Point","coordinates":[30.802498,26.820553],"properties":{"country":"Egypt ","code2":"EG","x":30.802498,"y":26.820553,"net":-227,"abs":227}}
+    ,{"type":"Point","coordinates":[-74.297333,4.570868],"properties":{"country":"Colombia ","code2":"CO","x":-74.297333,"y":4.570868,"net":-239,"abs":239}}
+    ,{"type":"Point","coordinates":[121.774017,12.879721],"properties":{"country":"Philippines ","code2":"PH","x":121.774017,"y":12.879721,"net":-241,"abs":241}}
+    ,{"type":"Point","coordinates":[5.291266,52.132633],"properties":{"country":"Netherlands ","code2":"NL","x":5.291266,"y":52.132633,"net":-292,"abs":292}}
+    ,{"type":"Point","coordinates":[105.318756,61.52401],"properties":{"country":"Russia ","code2":"RU","x":105.318756,"y":61.52401,"net":-333,"abs":333}}
+    ,{"type":"Point","coordinates":[-66.58973,6.42375],"properties":{"country":"Venezuela ","code2":"VE","x":-66.58973,"y":6.42375,"net":-408,"abs":408}}
+    ,{"type":"Point","coordinates":[31.16558,48.379433],"properties":{"country":"Ukraine ","code2":"UA","x":31.16558,"y":48.379433,"net":-416,"abs":416}}
+    ,{"type":"Point","coordinates":[90.356331,23.684994],"properties":{"country":"Bangladesh ","code2":"BD","x":90.356331,"y":23.684994,"net":-447,"abs":447}}
+    ,{"type":"Point","coordinates":[-77.781167,21.521757],"properties":{"country":"Cuba ","code2":"CU","x":-77.781167,"y":21.521757,"net":-548,"abs":548}}
+    ,{"type":"Point","coordinates":[8.675277,9.081999],"properties":{"country":"Nigeria ","code2":"NG","x":8.675277,"y":9.081999,"net":-661,"abs":661}}
+    ,{"type":"Point","coordinates":[69.345116,30.375321],"properties":{"country":"Pakistan ","code2":"PK","x":69.345116,"y":30.375321,"net":-680,"abs":680}}
+    ,{"type":"Point","coordinates":[21.824312,39.074208],"properties":{"country":"Greece ","code2":"GR","x":21.824312,"y":39.074208,"net":-758,"abs":758}}
+    ,{"type":"Point","coordinates":[53.688046,32.427908],"properties":{"country":"Iran ","code2":"IR","x":53.688046,"y":32.427908,"net":-1366,"abs":1366}}
+    ,{"type":"Point","coordinates":[-3.74922,40.463667],"properties":{"country":"Spain ","code2":"ES","x":-3.74922,"y":40.463667,"net":-1527,"abs":1527}}
+    ,{"type":"Point","coordinates":[2.213749,46.227638],"properties":{"country":"France ","code2":"FR","x":2.213749,"y":46.227638,"net":-1606,"abs":1606}}
+    ,{"type":"Point","coordinates":[104.195397,35.86166],"properties":{"country":"China ","code2":"CN","x":104.195397,"y":35.86166,"net":-1810,"abs":1810}}
+    ,{"type":"Point","coordinates":[12.56738,41.87194],"properties":{"country":"Italy ","code2":"IT","x":12.56738,"y":41.87194,"net":-2199,"abs":2199}}
+    ,{"type":"Point","coordinates":[78.96288,20.593684],"properties":{"country":"India ","code2":"IN","x":78.96288,"y":20.593684,"net":-5671,"abs":5671}}]}},"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}}}
